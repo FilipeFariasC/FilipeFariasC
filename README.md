@@ -1,8 +1,3 @@
-<style>
-  .icon {
-    height: 32px;
-  }
-</style> 
 # Filipe Farias
 
 >Olá, eu sou Filipe Farias estudante de Análise e Desenvolvimento de Sistemas no IFPB Campus Monteiro.
@@ -56,3 +51,9 @@ Eu sou um Desenvolvedor Web Júnior com o intuito de me tornar um Desenvolvedor 
 - <a href="mailto:filipe.farias.chagas@protonmail.com"><img style="width: 96px;"  src="https://protonmail.com/images/media/logos/protonmail-logo-purple.svg">:</a>&nbsp;filipe.farias.chagas@protonmail.com.
 - Twitter: [@FilipeFariasC](https://twitter.com/filipefariasc).
 - Linkedin: [Filipe Farias](https://www.linkedin.com/in/filipe-farias/).
+
+<style>
+  .icon {
+    height: 32px;
+  }
+</style> 
