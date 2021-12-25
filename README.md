@@ -1,41 +1,49 @@
 
 <h1>Filipe Farias</h1>
 
->Olá, eu sou Filipe Farias estudante de Análise e Desenvolvimento de Sistemas no IFPB Campus Monteiro.
-Eu sou um Desenvolvedor Web Júnior com o intuito de me tornar um Desenvolvedor de Jogos.
+Olá, eu sou Filipe Farias estudante de Análise e Desenvolvimento de Sistemas no IFPB Campus Monteiro.
+Eu sou um Desenvolvedor Web Júnior com o intuito de no futuro me tornar um Desenvolvedor de Jogos.
 
 
 <h4>Atualmente:</h4>
 
-- Estou atualmente estudando <a href="https://www.udemy.com/course/lpic-1-preparatorio-para-os-exames-101-e-102/">Preparação LPIC-1 Atualizado V5</a> por Edson Oliveira na Udemy.</li>
-- Estou a procura de estágios para acumular experiência profissional.</li>
-- Está a procura de voluntários em algum projeto open source? Contate-me pelo <a style="scroll-behavior: smooth;" href="#contato">links abaixo</a> (de preferência o email).</li>
+- Estou estudando <a href="https://www.udemy.com/course/lpic-1-preparatorio-para-os-exames-101-e-102/">Preparação LPIC-1 Atualizado V5</a> por Edson Oliveira na Udemy.</li>
+- Também a procura de estágios para acumular experiência profissional.
+
+
+
+>Está a procura de voluntários em algum projeto open source? Contate-me pelo <a style="scroll-behavior: smooth;" href="#contato">links abaixo</a> (de preferência o email).</li>
 
 
 <h3>Linguagens de Programação</h3>
 
+As linguagens abaixo eu possuo bastante similaridade.
+
 - <img style="height: 32px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain-wordmark.svg" />&nbsp;Java 8 e 11;
-```java
+
+  ```java
   System.out.println("Prazer em conhecê-lo(la)!");
-```
+  ```
+
 - <img style="height: 32px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />&nbsp;Python 3;
 
-```python
+  ```python
   print("Seja bem-vindo(a)")
-```
+  ```
 - <img style="height: 32px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain-wordmark.svg" />&nbsp;Ruby;
-```Ruby
+  ```Ruby
   puts "Ao meu GitHub"
-```
+  ```
 - <img style="height: 32px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
       <img style="height: 32px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
       &nbsp;C/C++;
-```c
+      
+  ```c
   printf("Tenha uma boa visita.");
-```
-```cpp
+  ```
+  ```cpp
   std::cout << "Espero que goste!!!";
-```
+  ```
 
   </li>
 </ul>
