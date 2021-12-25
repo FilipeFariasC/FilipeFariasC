@@ -8,7 +8,7 @@
 - Estou a procura de 
 
 ### Linguagens de Programação
-- [javaicon] Java 8 e 11
+- (javaicon) Java 8 e 11
 - <img style="height: 32px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />Python 3
 - Ruby
 - C/C++
