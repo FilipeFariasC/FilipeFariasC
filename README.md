@@ -1,4 +1,5 @@
-# Filipe Farias
+
+<h1>Filipe Farias</h1>
 
 <blockquote>
   <p>
@@ -8,8 +9,12 @@
 </blockquote>
 
 <h4>Atualmente:</h4>
-- Estou atualmente estudando ["Preparação LPIC-1 Atualizado V5"](https://www.udemy.com/course/lpic-1-preparatorio-para-os-exames-101-e-102/).
-- Estou a procura de estágios para acumular experiência profissional.
+<ul>
+  <li>Estou atualmente estudando <a href="https://www.udemy.com/course/lpic-1-preparatorio-para-os-exames-101-e-102/">"Preparação LPIC-1 Atualizado V5"</a></li>
+  <li>Estou a procura de estágios para acumular experiência profissional.</li>
+  <li>Está a procura de voluntários em algum projeto open source? Contate-me pelo
+  <a style="scroll-behavior: smooth;" href="#meu-email">email</a> Abaixo</li>
+</ul>
 
 <h3>Linguagens de Programação</h3>
 <ul>
@@ -22,6 +27,7 @@
 ```java
   System.out.println("Prazer em conhecê-lo(la)!");
 ```
+
   </li>
   <li style="display: flex; flex-direction: column;">
     <div class="wrap" style="display:flex;align-items: center">
@@ -41,6 +47,7 @@
 ```Ruby
   puts "Ao meu GitHub"
 ```
+
   </li>
   </li>
   <li style="display: flex; flex-direction: column;">
@@ -53,9 +60,11 @@
 ```c
   printf("Tenha uma boa visita.");
 ```
+
 ```cpp
   std::cout << "Espero que goste!!!";
 ```
+
   </li>
 </ul>
 
@@ -79,6 +88,6 @@
 
 ### Contato:
 
-- <a href="mailto:filipe.farias.chagas@protonmail.com"><img style="width: 96px;"  src="https://protonmail.com/images/media/logos/protonmail-logo-purple.svg">:</a>&nbsp;filipe.farias.chagas@protonmail.com.
+- <a id="meu-email" href="mailto:filipe.farias.chagas@protonmail.com"><img style="width: 96px;"  src="https://protonmail.com/images/media/logos/protonmail-logo-purple.svg">:</a>&nbsp;filipe.farias.chagas@protonmail.com.
 - Twitter: [@FilipeFariasC](https://twitter.com/filipefariasc).
 - Linkedin: [Filipe Farias](https://www.linkedin.com/in/filipe-farias/).
