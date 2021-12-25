@@ -9,7 +9,7 @@ Eu sou um Desenvolvedor Web Júnior com o intuito de me tornar um Desenvolvedor 
 
 - Estou atualmente estudando <a href="https://www.udemy.com/course/lpic-1-preparatorio-para-os-exames-101-e-102/">Preparação LPIC-1 Atualizado V5</a> por Edson Oliveira na Udemy.</li>
 - Estou a procura de estágios para acumular experiência profissional.</li>
-- Está a procura de voluntários em algum projeto open source? Contate-me pelo <a style="scroll-behavior: smooth;" href="#meus-contatos">links abaixo</a> (de preferência o email).</li>
+- Está a procura de voluntários em algum projeto open source? Contate-me pelo <a style="scroll-behavior: smooth;" href="#contato">links abaixo</a> (de preferência o email).</li>
 
 
 <h3>Linguagens de Programação</h3>
@@ -42,27 +42,43 @@ Eu sou um Desenvolvedor Web Júnior com o intuito de me tornar um Desenvolvedor 
 
 ### Bancos de Dados
 
-- <img style="height: 32px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />&nbsp;PostgreSQL
-- <img style="height: 32px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />&nbsp;MySQL
-- <img style="height: 32px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />&nbsp;MongoDB
+<div>
+  <span>
+    <img style="height: 48px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />
+  </span>
+  <span>
+    <img style="height: 48px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+  </span>
+  <span>
+    <img style="height: 48px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />
+  </span>
+</div>
 
 ### Frameworks
 
-- <img style="height:32px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" />&nbsp;Spring
-- <img style="height: 32px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" />&nbsp;Flask;
+<div>
+  <span>
+    <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring">
+  </span>
+  <span>
+    <img src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white" alt="Ruby on Rails">
+  </span>
+  <span>
+    <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask">
+  </span>
+</div>
 
 #### Estatísticas
 
 <div align="center">
   <a style="width: fit-content; margin: 0 auto;" href="https://github.com/filipefariasc">
-    <img height="180en;" src="https://github-readme-stats.vercel.app/api?username=filipefariasc&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="180em;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=filipefariasc&layout=compact&langs_count=7&theme=dracula"/>
+    <img height="150ren;" src="https://github-readme-stats.vercel.app/api?username=filipefariasc&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="150rem;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=filipefariasc&layout=compact&langs_count=7&theme=dracula"/>
   </a>
 </div>
 
-### Contato:
+### Contato
 <div id="meus-contatos">
-
   <a href="mailto:filipe.farias.chagas@protonmail.com" target="_blank">
     <img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" alt="contato email protonmail"/>
   </a>
