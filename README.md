@@ -1,4 +1,4 @@
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css" integrity="sha512-1ycn6IcaQQ40/MKBW2W4Rhis/DbILU74C1vSrLJxCq57o941Ym01SwNsOMqvEBFlcgUa6xLiPY/NS5R+E6ztJQ==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+
 <h1>Filipe Farias</h1>
 
 <img align="right" style="height: 250px;margin-left:25px" src="/superman-henry-cavill.gif" alt="Henry Cavill como superman acenando" srcset="">
@@ -84,11 +84,9 @@ std::cout << "Espero que goste!!!"; // nenhum standard em específico
 Eu tenho 21 anos, utilizo a plataforma Linux Ubuntu para programação e configuração de servidores, como disse anteriormente tenho interesso em me tornar um Game Developer e para isso utilizo a [Godot Engine](https://github.com/godotengine/godot), que é completamente open-source, tanto utilizando a linguagem de script embutida o GDScript, quanto utilizando GDNative/GDExtension com C e/ou C++.
 
 <div align="center">
-  <img style="height: 125px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" />
-  <i class="fas fa-heart" style="color: red; font-size: 5rem; margin-inline: 1.5rem" ></i>
-  <img style="height: 125px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain-wordmark.svg" />
-  <i class="fas fa-heart" style="color: red; font-size: 5rem; margin-inline: 1.5rem" ></i>
-  <img style="height: 125px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+  <img align="left" style="height: 125px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" />
+  <img align="center"style="height: 125px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain-wordmark.svg" />
+  <img align="right" style="height: 125px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
 </div>
 
 #### Estatísticas
