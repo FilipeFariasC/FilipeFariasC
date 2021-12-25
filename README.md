@@ -17,7 +17,7 @@
 
 
 
->Está a procura de voluntários em algum projeto open source? Contate-me pelo <a style="scroll-behavior: smooth;" href="#contato">links abaixo</a> (de preferência o email).
+>Está a procura de voluntários em algum projeto open source? Contate-me pelo <a style="scroll-behavior: smooth;" href="#user-content-contato">links abaixo</a> (de preferência o email).
 
 
 <h3>Linguagens de Programação</h3>
