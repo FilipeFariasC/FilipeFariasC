@@ -42,8 +42,7 @@ print("Seja bem-vindo(a)") # domino unicamente a versão 3
 puts "Ao meu GitHub" # domino do 2.6 para frente
 ```
 
-<img style="height: 32px" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-<img style="height: 32px" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+<img style="height: 32px" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />&nbsp;<img style="height: 32px" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
     
 ```c
 printf("Tenha uma boa visita."); /* nenhum standard em específico */
