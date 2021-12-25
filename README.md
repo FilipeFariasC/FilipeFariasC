@@ -1,8 +1,3 @@
-<style>
-  .icon {
-    height: 32px;
-  }
-</style> 
 # Filipe Farias
 
 >Olá, eu sou Filipe Farias estudante de Análise e Desenvolvimento de Sistemas no IFPB Campus Monteiro.
@@ -13,11 +8,11 @@ Eu sou um Desenvolvedor Web Júnior com o intuito de me tornar um Desenvolvedor 
 - Estou a procura de estágios para acumular experiência profissional.
 
 ### Linguagens de Programação
-- <img class="icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain-wordmark.svg" />&nbsp;Java 8 e 11;
+- <img style="height: 32px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain-wordmark.svg" />&nbsp;Java 8 e 11;
   ```java
     System.out.println("Prazer em conhecê-lo(la)!");
   ```
-- <img class="icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />&nbsp;Python 3;
+- <img style="height: 32px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />&nbsp;Python 3;
   ```python
     print("Seja bem-vindo(a)")
   ```
@@ -37,9 +32,9 @@ Eu sou um Desenvolvedor Web Júnior com o intuito de me tornar um Desenvolvedor 
 
 ### Bancos de Dados
 
-- <img class="icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />&nbsp;PostgreSQL
-- <img class="icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />&nbsp;MySQL
-- <img class="icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />&nbsp;MongoDB
+- <img style="height: 32px;"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />&nbsp;PostgreSQL
+- <img style="height: 32px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />&nbsp;MySQL
+- <img style="height: 32px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />&nbsp;MongoDB
 ### Frameworks
 
 - <img style="height:32px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" />&nbsp;Spring
