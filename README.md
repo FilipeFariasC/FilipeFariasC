@@ -53,7 +53,7 @@ Eu sou um Desenvolvedor Web Júnior com o intuito de me tornar um Desenvolvedor 
 
 #### Estatísticas
 
-<div align="center" style="width: fit-content; margin: 0 auto">
+<div align="center">
   <a href="https://github.com/filipefariasc">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=filipefariasc&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=filipefariasc&layout=compact&langs_count=7&theme=dracula"/>
