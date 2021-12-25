@@ -55,14 +55,14 @@ Eu sou um Desenvolvedor Web Júnior com o intuito de me tornar um Desenvolvedor 
 
 <div align="center">
   <a href="https://github.com/filipefariasc">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=filipefariasc&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=filipefariasc&layout=compact&langs_count=7&theme=dracula"/>
+    <img height="50%;" src="https://github-readme-stats.vercel.app/api?username=filipefariasc&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=filipefariasc&layout=compact&langs_count=7&theme=dracula"/>
   </a>
 </div>
 
 ### Contato:
 <div id="meus-contatos">
-  
+
   <a href="mailto:filipe.farias.chagas@protonmail.com" target="_blank">
     <img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" alt="contato email protonmail"/>
   </a>
