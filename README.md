@@ -26,9 +26,9 @@ As linguagens abaixo eu possuo bastante similaridade.
 
 <img style="height: 32px" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
 
-```java
-System.out.println("Prazer em conhecê-lo(la)!"); // domino principalmente as versões 8 e 11
-```
+  ```java
+  System.out.println("Prazer em conhecê-lo(la)!"); // domino principalmente as versões 8 e 11
+  ```
 
 <img style="height: 32px" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
 
@@ -79,6 +79,11 @@ std::cout << "Espero que goste!!!"; // nenhum standard em específico
   </span>
 </div>
 
+#### Mais sobre mim
+
+Eu utilizo a plataforma Linux Ubuntu para programação e configuração de servidores, 
+
+
 #### Estatísticas
 
 <div align="center">
@@ -87,6 +92,7 @@ std::cout << "Espero que goste!!!"; // nenhum standard em específico
     <img height="150rem;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=filipefariasc&layout=compact&langs_count=7&theme=dracula"/>
   </a>
 </div>
+<img align="center" style="height: 24px;" src="https://aleen42.github.io/badges/src/stackoverflow.svg" alt="meu stackoverflow brasileiro">
 
 ### Contato
 <div id="meus-contatos">
