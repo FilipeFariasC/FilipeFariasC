@@ -60,13 +60,11 @@ Eu sou um Desenvolvedor Web Júnior com o intuito de me tornar um Desenvolvedor 
 </div>
 
 ### Contato:
-
-- <a id="meu-email" href="mailto:filipe.farias.chagas@protonmail.com"><img style="height: 32px;"  src="https://protonmail.com/images/media/logos/protonmail-sign-purple.png">:</a>&nbsp;filipe.farias.chagas@protonmail.com.
-- <a target="_blank" href="http://twitter.com/filipefariasc"><img style="height: 32px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" /></a>: [@FilipeFariasC](https://twitter.com/filipefariasc).
-- <a href="http://www.linkedin.com/in/filipe-farias/"><img style="height: 32px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a>: [Filipe Farias](https://www.linkedin.com/in/filipe-farias/).
-
 <div>
   <a href="mailto:filipe.farias.chagas@protonmail.com" target="_blank">
     <img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" />
+  </a>
+  <a href="https://api.whatsapp.com/send?phone=558398601865">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
   </a>
 </div>
