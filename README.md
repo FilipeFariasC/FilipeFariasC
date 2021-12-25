@@ -1,9 +1,13 @@
 
 <h1>Filipe Farias</h1>
+<img style="float: right;height: 250px;margin-left:25px" src="/superman-henry-cavill.gif" alt="Henry Cavill como superman acenando" srcset="">
+<div>
 
-Olá, eu sou Filipe Farias estudante de Análise e Desenvolvimento de Sistemas no IFPB Campus Monteiro.
-Eu sou um Desenvolvedor Web Júnior com o intuito de no futuro me tornar um Desenvolvedor de Jogos.
 
+  <p>Olá, eu sou Filipe Farias estudante de Análise e Desenvolvimento de Sistemas no IFPB Campus Monteiro.</p>
+  <p>Eu sou um Desenvolvedor Web Júnior com o intuito de no futuro me tornar um Desenvolvedor de Jogos.</p>
+
+</div>
 
 <h4>Atualmente:</h4>
 
@@ -12,7 +16,7 @@ Eu sou um Desenvolvedor Web Júnior com o intuito de no futuro me tornar um Dese
 
 
 
->Está a procura de voluntários em algum projeto open source? Contate-me pelo <a style="scroll-behavior: smooth;" href="#contato">links abaixo</a> (de preferência o email).</li>
+>Está a procura de voluntários em algum projeto open source? Contate-me pelo <a style="scroll-behavior: smooth;" href="#contato">links abaixo</a> (de preferência o email).
 
 
 <h3>Linguagens de Programação</h3>
