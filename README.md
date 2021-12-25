@@ -9,7 +9,7 @@ Eu sou um Desenvolvedor Web Júnior com o intuito de me tornar um Desenvolvedor 
 
 - Estou atualmente estudando <a href="https://www.udemy.com/course/lpic-1-preparatorio-para-os-exames-101-e-102/">Preparação LPIC-1 Atualizado V5</a> por Edson Oliveira na Udemy.</li>
 - Estou a procura de estágios para acumular experiência profissional.</li>
-- Está a procura de voluntários em algum projeto open source? Contate-me pelo <a style="scroll-behavior: smooth;" href="#meu-email">email abaixo</a>.</li>
+- Está a procura de voluntários em algum projeto open source? Contate-me pelo <a style="scroll-behavior: smooth;" href="#meu-email">links abaixo</a> (de preferência o email).</li>
 
 
 <h3>Linguagens de Programação</h3>
