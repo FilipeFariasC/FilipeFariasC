@@ -1,12 +1,15 @@
 
 <h1>Filipe Farias</h1>
-<img style="float: right;height: 250px;margin-left:25px" src="/superman-henry-cavill.gif" alt="Henry Cavill como superman acenando" srcset="">
+
 <div>
-
-
-  <p>Olá, eu sou Filipe Farias estudante de Análise e Desenvolvimento de Sistemas no IFPB Campus Monteiro.</p>
-  <p>Eu sou um Desenvolvedor Web Júnior com o intuito de no futuro me tornar um Desenvolvedor de Jogos.</p>
-
+  <span align="left">
+    <p style="width:fit-content;">Olá, eu sou Filipe Farias estudante de Análise e Desenvolvimento de Sistemas no IFPB Campus Monteiro.</p>
+    <p style="width:fit-content;">Eu sou um Desenvolvedor Web Júnior com o intuito de no futuro me tornar um Desenvolvedor de Jogos.</p>
+  </span>
+  
+  <span align="right">
+    <img style="height: 250px;margin-left:25px" src="/superman-henry-cavill.gif" alt="Henry Cavill como superman acenando" srcset="">
+  </span>
 </div>
 
 <h4>Atualmente:</h4>
