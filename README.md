@@ -24,35 +24,33 @@
 
 As linguagens abaixo eu possuo bastante similaridade.
 
-- <img style="height: 32px" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+<img style="height: 32px" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
 
-  ```java
-  System.out.println("Prazer em conhecê-lo(la)!"); // domino principalmente as versões 8 e 11
-  ```
+```java
+System.out.println("Prazer em conhecê-lo(la)!"); // domino principalmente as versões 8 e 11
+```
 
-- <img style="height: 32px" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
+<img style="height: 32px" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
 
-  ```python
-  print("Seja bem-vindo(a)") # domino unicamente a versão 3
-  ```
-- <img style="height: 32px" src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" />
-  
-  ```Ruby
-  puts "Ao meu GitHub" # domino do 2.6 para frente
-  ```
+```python
+print("Seja bem-vindo(a)") # domino unicamente a versão 3
+```
 
-- <img style="height: 32px" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img style="height: 32px" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-      
-  ```c
-  printf("Tenha uma boa visita."); /* nenhum standard em específico */
-  ```
-  ```cpp
-  std::cout << "Espero que goste!!!"; // nenhum standard em específico
-  ```
+<img style="height: 32px" src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" />
 
-  </li>
-</ul>
+```Ruby
+puts "Ao meu GitHub" # domino do 2.6 para frente
+```
+
+<img style="height: 32px" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+<img style="height: 32px" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+    
+```c
+printf("Tenha uma boa visita."); /* nenhum standard em específico */
+```
+```cpp
+std::cout << "Espero que goste!!!"; // nenhum standard em específico
+```
 
 ### Bancos de Dados
 
