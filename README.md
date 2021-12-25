@@ -52,6 +52,8 @@ Eu sou um Desenvolvedor Web Júnior com o intuito de me tornar um Desenvolvedor 
 - Twitter: [@FilipeFariasC](https://twitter.com/filipefariasc).
 - Linkedin: [Filipe Farias](https://www.linkedin.com/in/filipe-farias/).
 
+
+
 <style>
   .icon {
     height: 32px;
