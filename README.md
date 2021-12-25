@@ -19,25 +19,25 @@ Eu sou um Desenvolvedor Web Júnior com o intuito de no futuro me tornar um Dese
 
 As linguagens abaixo eu possuo bastante similaridade.
 
-- <img style="height: 32px;" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />&nbsp; 8 e 11
+- <img style="height: 32px" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />&nbsp; 8 e 11
 
   ```java
   System.out.println("Prazer em conhecê-lo(la)!");
   ```
 
-- <img style="height: 32px;" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />&nbsp;3
+- <img style="height: 32px" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />&nbsp;3
 
   ```python
   print("Seja bem-vindo(a)")
   ```
-- <img style="height: 32px;" src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" />
+- <img style="height: 32px" src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" />
   
   ```Ruby
   puts "Ao meu GitHub"
   ```
-  
-- <img style="height: 32px;" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img style="height: 32px;" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+
+- <img style="height: 32px" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img style="height: 32px" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
       
   ```c
   printf("Tenha uma boa visita.");
@@ -53,13 +53,13 @@ As linguagens abaixo eu possuo bastante similaridade.
 
 <div>
   <span>
-    <img style="height: 48px;" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+    <img style="height: 32px;" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
   </span>
   <span>
-    <img style="height: 48px;" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
+    <img style="height: 32px;" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
   </span>
   <span>
-    <img style="height: 48px;" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+    <img style="height: 32px;" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
   </span>
 </div>
 
@@ -67,13 +67,13 @@ As linguagens abaixo eu possuo bastante similaridade.
 
 <div>
   <span>
-    <img style="height: 48px" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring">
+    <img style="height: 32px" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring">
   </span>
   <span>
-    <img src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white" alt="Ruby on Rails">
+    <img style="height: 32px" src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white" alt="Ruby on Rails">
   </span>
   <span>
-    <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask">
+    <img style="height: 32px" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask">
   </span>
 </div>
 
