@@ -44,5 +44,5 @@ Eu sou um Desenvolvedor Web Júnior com o intuito de me tornar um Desenvolvedor 
 
 ### Contato:
 - <img style="width: 96px;" src="https://protonmail.com/images/media/logos/protonmail-logo-purple.svg"> filipe.farias.chagas@protonmail.com.
-- ###### Twitter: [@FilipeFariasC](https://twitter.com/filipefariasc).
-- ###### Linkedin: [Filipe Farias](https://www.linkedin.com/in/filipe-farias/)
+- Twitter: [@FilipeFariasC](https://twitter.com/filipefariasc).
+- Linkedin: [Filipe Farias](https://www.linkedin.com/in/filipe-farias/)
