@@ -1,8 +1,11 @@
 # Filipe Farias
 
->Olá, eu sou Filipe Farias estudante de Análise e Desenvolvimento de Sistemas no IFPB Campus Monteiro.
-Eu sou um Desenvolvedor Web Júnior com o intuito de me tornar um Desenvolvedor de Jogos.
-
+<blockquote>
+  <p>
+    Olá, eu sou Filipe Farias estudante de Análise e Desenvolvimento de Sistemas no IFPB Campus Monteiro.
+    Eu sou um Desenvolvedor Web Júnior com o intuito de me tornar um Desenvolvedor de Jogos.
+  </p>
+</blockquote>
 #### Atualmente:
 - Estou atualmente estudando ["Preparação LPIC-1 Atualizado V5"](https://www.udemy.com/course/lpic-1-preparatorio-para-os-exames-101-e-102/).
 - Estou a procura de estágios para acumular experiência profissional.
