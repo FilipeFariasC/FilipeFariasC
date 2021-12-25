@@ -92,7 +92,7 @@ Eu utilizo a plataforma Linux Ubuntu para programação e configuração de serv
     <img height="150rem;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=filipefariasc&layout=compact&langs_count=7&theme=dracula"/>
   </a>
 </div>
-<img align="center" style="height: 24px;" src="https://aleen42.github.io/badges/src/stackoverflow.svg" alt="meu stackoverflow brasileiro">
+<a href="https://pt.stackoverflow.com/users/145481/filipe-farias"><img align="center" style="height: 24px;" src="https://aleen42.github.io/badges/src/stackoverflow.svg" alt="meu stackoverflow brasileiro"></a>
 
 ### Contato
 <div id="meus-contatos">
