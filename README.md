@@ -84,9 +84,9 @@ std::cout << "Espero que goste!!!"; // nenhum standard em específico
 Eu tenho 21 anos, utilizo a plataforma Linux Ubuntu para programação e configuração de servidores, utilizo para programação em Java a IDE Eclipse, para o Python eu utilizo o PyCharm Community Edition, e para o Ruby utilizo o editor de texto Atom (criado pelo próprio GitHub), esses que são gratuitos e de código aberto.
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/atom/atom-original.svg" />
+  <img align="left"style="height: 125px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/atom/atom-original.svg" />
   <img align="center"style="height: 125px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain-wordmark.svg" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain-wordmark.svg" />
+  <img align="right"style="height: 125px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain-wordmark.svg" />
 </div>
 
 #### Estatísticas
