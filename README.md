@@ -7,7 +7,7 @@
   Olá, eu sou Filipe Farias estudante de Análise e Desenvolvimento de Sistemas no IFPB Campus Monteiro.
 </p>
 <p style="text-align: justify;">
-  Eu sou um Desenvolvedor Web Júnior com o intuito de no futuro me tornar um Desenvolvedor de Jogos.
+  Eu sou um Desenvolvedor Web Júnior primariamente utilizando o Framework Spring, com Thymeleaf + HTML5 e CSS3 (e opcionalmente Bootstrap/Vue/JQuery) no front-end, e Java + PostgreSQL e REST API's.
 </p>
 
 <h4>Atualmente:</h4>
@@ -81,12 +81,12 @@ std::cout << "Espero que goste!!!"; // nenhum standard em específico
 
 #### Mais sobre mim
 
-Eu tenho 21 anos, utilizo a plataforma Linux Ubuntu para programação e configuração de servidores, como disse anteriormente tenho interesso em me tornar um Game Developer e para isso utilizo a [Godot Engine](https://github.com/godotengine/godot), que é completamente open-source, tanto utilizando a linguagem de script embutida o GDScript, quanto utilizando GDNative/GDExtension com C e/ou C++.
+Eu tenho 21 anos, utilizo a plataforma Linux Ubuntu para programação e configuração de servidores, utilizo para programação em Java a IDE Eclipse, para o Python eu utilizo o PyCharm Community Edition, e para o Ruby utilizo o editor de texto Atom (criado pelo próprio GitHub), esses que são gratuitos e de código aberto.
 
 <div align="center">
-  <img align="left" style="height: 125px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/atom/atom-original.svg" />
   <img align="center"style="height: 125px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain-wordmark.svg" />
-  <img align="right" style="height: 125px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain-wordmark.svg" />
 </div>
 
 #### Estatísticas
