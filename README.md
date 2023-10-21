@@ -4,17 +4,16 @@
 <img align="right" style="height: 250px;margin-left:25px" src="/superman-henry-cavill.gif" alt="Henry Cavill como superman acenando" srcset="">
 
 <p style="text-align: justify;">
-  Olá, eu sou Filipe Farias estudante de Análise e Desenvolvimento de Sistemas no IFPB Campus Monteiro.
+  Olá, eu sou Filipe Farias graduando em Análise e Desenvolvimento de Sistemas no IFPB Campus Monteiro.
 </p>
 <p style="text-align: justify;">
-  Eu sou um Desenvolvedor Web Júnior primariamente utilizando o Framework Spring, com Thymeleaf + HTML5 e CSS3 (e opcionalmente Bootstrap/Vue/JQuery) no front-end, e Java + PostgreSQL e REST API's.
+  Eu sou um Desenvolvedor Web Júnior primariamente utilizando o Framework Spring, com experiências no front-end com Angular, e Java + PostgreSQL e REST API's.
 </p>
 
 <h4>Atualmente:</h4>
 
 - Estou estudando <a href="https://www.udemy.com/course/lpic-1-preparatorio-para-os-exames-101-e-102/">Preparação LPIC-1 Atualizado V5</a> por Edson Oliveira na Udemy.</li>
-- Também a procura de estágios para acumular experiência profissional.
-
+- Trabalho na <a href="https://www.klok.tech">Klok Tech<a>.
 
 
 >Está a procura de voluntários em algum projeto open source? Contate-me pelo <a style="scroll-behavior: smooth;" href="#user-content-contato">links abaixo</a> (de preferência o email).
