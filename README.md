@@ -80,7 +80,7 @@ std::cout << "Espero que goste!!!"; // nenhum standard em específico
 
 #### Mais sobre mim
 
-Eu tenho 21 anos, utilizo a plataforma Linux Ubuntu para programação e configuração de servidores, utilizo para programação em Java a IDE Eclipse, para o Python eu utilizo o PyCharm Community Edition, e para o Ruby utilizo o editor de texto Atom (criado pelo próprio GitHub), esses que são gratuitos e de código aberto.
+Eu tenho 23 anos, utilizo a plataforma Linux Ubuntu para programação e configuração de servidores, utilizo para programação em Java a IDE Eclipse ou IntelliJ Community Edition, para o Python eu utilizo o PyCharm Community Edition, e para o Ruby utilizo o editor de texto VSCode, esses que são gratuitos e de código aberto.
 
 <div align="center">
   <img align="left"style="height: 125px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/atom/atom-original.svg" />
